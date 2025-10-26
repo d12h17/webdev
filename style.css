@@ -1,3 +1,22 @@
+body{
+    background-color:rgb(54, 50, 65);
+    text-align: center;
+}
+
 h2{
     color:rgb(170, 219, 92);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+.id2{
+    width: 450px; 
+    height: 650px;  
+    border: 2px solid rgb(16, 167, 194); 
+    padding: 20px; 
+    margin: 10px auto; 
+    text-align: center; 
+    font-family: sans-serif; 
+    
+}
+
